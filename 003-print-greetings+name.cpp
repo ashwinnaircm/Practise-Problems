@@ -9,5 +9,5 @@ int main()
   cout << "Enter Your Name : ";       //Prompt user to enter a name
   cin >> name;                        //Read name from user and save to variable
   cout << "Namah Shivaya, " << name;  // Print the greeting + the name 
-  return 0;  
+  return 0 ;        // Returning 0  
 }
