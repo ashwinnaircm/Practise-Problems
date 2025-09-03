@@ -1,4 +1,4 @@
-//Program to find the area of a circle
+//Program to find the Area of a Circle
 
 #include<iostream>
 using namespace std;
