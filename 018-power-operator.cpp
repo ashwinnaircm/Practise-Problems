@@ -1,4 +1,4 @@
-//Program to print the power of a number using pow() operator
+//Program to print the Power of a Number using pow() operator
 
 #include<iostream>
 #include<cmath>
