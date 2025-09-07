@@ -1,4 +1,4 @@
-//Program to print Namah Shivaya
+//Program to Print Namah Shivaya
 
 #include<iostream>
 using namespace std;
