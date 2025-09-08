@@ -1,4 +1,4 @@
-//Program to print the sum of two numbers
+//Program to print the Sum of Two Numbers
 
 #include <iostream>
 using namespace std;
