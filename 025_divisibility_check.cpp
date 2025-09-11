@@ -1,4 +1,4 @@
-//Program to check if a number id divisible by 5 and 11
+//Program to check if a number id Divisible by 5 and 11
 
 #include<iostream>
 using namespace std;
